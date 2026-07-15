@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30059038/README.md)
+[README-1.md](https://github.com/user-attachments/files/30059330/README-1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Sayan%20Kumar%20Dakua&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%20Engineer%20%7C%20ECE%20Undergraduate&descAlignY=55&descSize=20" width="100%"/>
@@ -26,6 +26,16 @@
 ![Followers](https://img.shields.io/github/followers/ImmortalSKD?style=for-the-badge&color=6a0dad&labelColor=1a1a2e&logo=github)
 ![Stars](https://img.shields.io/github/stars/ImmortalSKD?style=for-the-badge&color=6a0dad&labelColor=1a1a2e&logo=github)
 
+<br/>
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-6A0DAD?style=flat-square&logo=openai&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-4B0082?style=flat-square&logo=chip&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat-square&logo=raspberrypi&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-7B68EE?style=flat-square&logo=probot&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-9370DB?style=flat-square&logo=opensourceinitiative&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+
 </div>
 
 <br/>
@@ -44,6 +54,16 @@ Beyond the bench, I lead sponsorship and collaboration efforts for **PPGS**, coo
 
 <br/>
 
+<div align="center">
+
+| 🎓 Education | 🛠️ Core Focus | 📍 Based In | 🗣️ Languages |
+|:---:|:---:|:---:|:---:|
+| B.E. ECE, UIT Burdwan (2024–2028) | Embedded Systems + AI | West Bengal, India | English, Hindi, Bengali |
+
+</div>
+
+<br/>
+
 ### 🎯 Open To
 
 ```yaml
@@ -57,7 +77,7 @@ Open_To:
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 ## 🟣 Tech Stack
 
@@ -94,7 +114,7 @@ Open_To:
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 ## 🟣 AI / ML Expertise
 
@@ -107,7 +127,7 @@ Open_To:
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 ## 🟣 Embedded Systems Expertise
 
@@ -121,7 +141,7 @@ Open_To:
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 ## 🟣 Featured Projects
 
@@ -177,7 +197,7 @@ A collection of embedded electronic circuits and microcontroller interface proje
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 ## 🟣 Leadership
 
@@ -188,7 +208,7 @@ A collection of embedded electronic circuits and microcontroller interface proje
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 ## 🟣 Current Focus
 
@@ -210,7 +230,62 @@ Current_Focus:
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+
+## 🟣 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ImmortalSKD&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a970ff&icon_color=8a2be2&text_color=e0d7f5&ring_color=6a0dad"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalSKD&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a970ff&text_color=e0d7f5"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImmortalSKD&theme=radical&hide_border=true&background=0d0221&stroke=6a0dad&ring=8a2be2&fire=a970ff&currStreakLabel=e0d7f5"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+
+## 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ImmortalSKD&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+
+## 🟣 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImmortalSKD&theme=redical&bg_color=0d0221&color=a970ff&line=8a2be2&point=e0d7f5&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+
+## 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ImmortalSKD/ImmortalSKD/output/github-contribution-grid-snake-dark.svg"/>
+
+<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — requires a workflow file in a <code>ImmortalSKD/ImmortalSKD</code> profile repo to render.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 ## 🟣 Connect
 
@@ -224,7 +299,7 @@ Current_Focus:
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 <div align="center">
 
